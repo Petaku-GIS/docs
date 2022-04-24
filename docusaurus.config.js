@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Petaku Documentation',
   tagline: 'Petaku GIS Platform',
-  url: 'https://petaku-gis.github.io/docs/',
-  baseUrl: '/',
+  url: 'https://petaku-gis.github.io',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Petaku-GIS', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'docs', // Usually your repo name.
 
   presets: [
     [

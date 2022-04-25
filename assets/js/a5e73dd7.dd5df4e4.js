@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpetaku_docs=self.webpackChunkpetaku_docs||[]).push([[723],{7731:function(a){a.exports=JSON.parse('{"allTagsPath":"/docs/blog/tags","name":"bigdata","count":1,"permalink":"/docs/blog/tags/bigdata"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpetaku_docs=self.webpackChunkpetaku_docs||[]).push([[416],{397:function(s){s.exports=JSON.parse('{"allTagsPath":"/docs/blog/tags","name":"clustering","count":1,"permalink":"/docs/blog/tags/clustering"}')}}]);

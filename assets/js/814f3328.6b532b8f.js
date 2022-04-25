@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpetaku_docs=self.webpackChunkpetaku_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Handling million point location with leaflet map without crashing the browser","permalink":"/docs/blog/handling-million-point-location-with-server-side-leaflet-marker-cluster"}]}')}}]);

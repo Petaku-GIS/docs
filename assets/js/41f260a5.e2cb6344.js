@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpetaku_docs=self.webpackChunkpetaku_docs||[]).push([[773],{9485:function(e){e.exports=JSON.parse('{"allTagsPath":"/docs/blog/tags","name":"lealfet","count":1,"permalink":"/docs/blog/tags/lealfet"}')}}]);
